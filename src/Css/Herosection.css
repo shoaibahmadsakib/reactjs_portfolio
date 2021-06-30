@@ -1,0 +1,58 @@
+.Hero_section{
+  margin-top: -62px;
+}
+.heroside{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap-reverse;
+}
+.my_social_link{
+  text-align: center;
+
+}
+.firstimage img{
+    width: auto;
+    height: 296px;
+    position: relative;
+   top: 112px;
+   
+}
+.myheader{
+  text-align: left;
+  width: 100%;
+  padding: 10px 40px;
+
+}
+.firstimage{
+    background-image: url('../Assets/HeroSvg.png');
+    height: 76vh;
+  z-index: 0;
+  width: 120vh;
+    background-repeat: no-repeat;
+  
+}
+.download{
+  padding-bottom: 20px;
+}
+.button_style a{
+  color: #fff;
+  text-decoration: none;
+}
+
+
+
+@media only screen and (min-width: 768px){
+  .firstimage{
+    width: 150%;
+  }
+  .heroside{
+    flex-direction: row;
+    flex-wrap: nowrap;
+  }
+  .myheader{
+    padding: 100px 100px;
+  }
+  .Hero_section{
+    margin-top: -4px;
+  }
+}

@@ -1,0 +1,56 @@
+.my_skill{
+  
+}
+.all_skill{
+    padding: 0px 40px;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
+.skill_card{
+   margin-bottom: 40px;
+    width: 100%;
+height: auto;
+border-radius: 8px;
+background: #fff;
+box-shadow: 0px 10px 20px rgba(116, 114, 141, 0.26);
+
+}
+.card_body{
+    padding: 40px 20px;
+    display: flex;
+    justify-content: space-around;
+    padding-bottom: 0px;
+    height: 155px;
+
+  
+}
+@media only screen and (min-width: 768px) {
+    .my_skill{
+        padding: 50px 100px ;
+        
+       
+    }
+    .skill_card{
+        margin-bottom: 40px;
+        width: auto;
+        height: auto;
+    }
+    .card_body{
+        padding: 40px 20px;
+        display: flex;
+        justify-content: space-between;
+        padding-bottom: 0px;
+        height: 155px;
+    
+      
+    }
+    .all_skill{
+        padding: 50px 0px;
+        display: flex;
+        flex-wrap: wrap;
+        align-items: center;
+        justify-content: space-between;
+    }
+}

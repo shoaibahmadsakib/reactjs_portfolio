@@ -1,0 +1,45 @@
+.About_twosection{
+    display: flex;
+   
+    justify-content: center;
+    flex-flow: column;
+}
+.About_twosection h1{
+    text-transform: uppercase;
+}
+.about_image img{
+    width: 100%;
+}
+.about_me{
+    padding: 100px 40px;
+    margin-bottom: 20px;
+}
+.about_myself{
+    
+    text-align: justify;
+}
+
+@media only screen and (min-width: 768px){
+    .About_twosection{
+        display: flex;
+        justify-content: space-between;
+        flex-direction: row;
+    }
+    .about_me{
+        padding: 100px 100px;
+   
+    }
+    .about_image{
+        width: fit-content;
+        width: 62%;
+        padding-right: 30px;
+    
+    }
+    .about_image img{
+         width: 100%;
+    }
+    .about_myself{
+        padding-left: 30px;
+        width: 50%;
+    }
+}
