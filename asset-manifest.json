@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/reactjs_portfolio/static/css/main.3a6aab71.chunk.css",
+    "main.js": "/reactjs_portfolio/static/js/main.3ca12f2a.chunk.js",
+    "main.js.map": "/reactjs_portfolio/static/js/main.3ca12f2a.chunk.js.map",
+    "runtime-main.js": "/reactjs_portfolio/static/js/runtime-main.203d515d.js",
+    "runtime-main.js.map": "/reactjs_portfolio/static/js/runtime-main.203d515d.js.map",
+    "static/css/2.b44c6699.chunk.css": "/reactjs_portfolio/static/css/2.b44c6699.chunk.css",
+    "static/js/2.695b883c.chunk.js": "/reactjs_portfolio/static/js/2.695b883c.chunk.js",
+    "static/js/2.695b883c.chunk.js.map": "/reactjs_portfolio/static/js/2.695b883c.chunk.js.map",
+    "index.html": "/reactjs_portfolio/index.html",
+    "static/css/2.b44c6699.chunk.css.map": "/reactjs_portfolio/static/css/2.b44c6699.chunk.css.map",
+    "static/css/main.3a6aab71.chunk.css.map": "/reactjs_portfolio/static/css/main.3a6aab71.chunk.css.map",
+    "static/js/2.695b883c.chunk.js.LICENSE.txt": "/reactjs_portfolio/static/js/2.695b883c.chunk.js.LICENSE.txt",
+    "static/media/Aboutpic.31e969c3.png": "/reactjs_portfolio/static/media/Aboutpic.31e969c3.png",
+    "static/media/Herosection.css": "/reactjs_portfolio/static/media/HeroSvg.ff2ebf77.png",
+    "static/media/Heroimage.7b2d753c.png": "/reactjs_portfolio/static/media/Heroimage.7b2d753c.png",
+    "static/media/Linkedin.7861208d.png": "/reactjs_portfolio/static/media/Linkedin.7861208d.png",
+    "static/media/Resume.2c96fd2d.pdf": "/reactjs_portfolio/static/media/Resume.2c96fd2d.pdf",
+    "static/media/css.02d225c7.png": "/reactjs_portfolio/static/media/css.02d225c7.png",
+    "static/media/javascript.4b0c5805.png": "/reactjs_portfolio/static/media/javascript.4b0c5805.png",
+    "static/media/my_photo.cca2bbd0.jpg": "/reactjs_portfolio/static/media/my_photo.cca2bbd0.jpg",
+    "static/media/portfolioimg.29ca6d19.png": "/reactjs_portfolio/static/media/portfolioimg.29ca6d19.png",
+    "static/media/project1.1bda635a.jpg": "/reactjs_portfolio/static/media/project1.1bda635a.jpg",
+    "static/media/reactjs.86c8d9eb.png": "/reactjs_portfolio/static/media/reactjs.86c8d9eb.png",
+    "static/media/whatsapp.cc18ea2b.jpg": "/reactjs_portfolio/static/media/whatsapp.cc18ea2b.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.203d515d.js",
+    "static/css/2.b44c6699.chunk.css",
+    "static/js/2.695b883c.chunk.js",
+    "static/css/main.3a6aab71.chunk.css",
+    "static/js/main.3ca12f2a.chunk.js"
+  ]
+}
